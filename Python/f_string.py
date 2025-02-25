@@ -1,4 +1,4 @@
-#In previous version of of pyrhon the string formating is difficult. It required long code to formate the f-string
+#In previous version of of python the string formating is difficult. It required long code to formate the f-string
 #for example:
 intro1="Hi! , I am {} and i am from {},Bara" 
 intro="Hi! , I am {1} and i am from {0},Bara" 
